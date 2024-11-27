@@ -20,7 +20,7 @@ import java.util.Set;
 
 /**
  *
- * @author user
+ * @author ASUS
  */
 public class BiodataFrame extends javax.swing.JFrame {
 
